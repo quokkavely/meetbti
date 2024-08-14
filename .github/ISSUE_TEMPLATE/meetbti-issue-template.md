@@ -11,6 +11,6 @@ assignees: ''
  > toggle
 
 ## Details
--[ ] checkbox
+- [ ] checkbox
 
 ##  Notes
