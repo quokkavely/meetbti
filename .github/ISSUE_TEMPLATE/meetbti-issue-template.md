@@ -11,6 +11,11 @@ assignees: ''
  > toggle
 
 ## Details
+
 - [ ] checkbox
+
+## Estimated working time
+
+-  00 hr
 
 ##  Notes
